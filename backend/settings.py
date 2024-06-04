@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'climate_events',
+    'eductional_content',
     'profile_settings'
 ]
 
