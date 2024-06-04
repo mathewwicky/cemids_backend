@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'climate_events',
     'eductional_content',
+    'donation',
     'profile_settings'
 ]
 
