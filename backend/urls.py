@@ -5,4 +5,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include('climate_events.urls')),
     path('api/', include('donation.urls')),
+    path('api/', include('eductional_content.urls'))
 ]
